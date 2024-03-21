@@ -1,0 +1,1 @@
+print ( "Merhaba Tobeto Analist Ekibi" )
